@@ -21,3 +21,16 @@
 #   Build and Reload Package:  'Ctrl + Shift + B'
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
+
+
+#
+# #these are required to create packages
+#
+# #install packages
+# install.packages("devtools")
+# devtools::install_github("klutometis/roxygen")
+#
+#
+# #include packages
+# library("devtools")
+# library("roxygen2")
